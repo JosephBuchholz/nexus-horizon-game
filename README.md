@@ -1,5 +1,5 @@
 # nexus-horizon-game
-Game for CPT_S 487
+A simple bullet hell style game made for CPT_S 487 (Software Design & Architecture) at WSU. Created using C# and MonoGame in a team of five over the course of about four months. Significant focus was put on design over playability/features (the project won "Best Design" point on the assignment).
 
 ## Coding Conventions
 
